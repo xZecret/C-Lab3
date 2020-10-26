@@ -14,8 +14,8 @@ int main( void ){
     scanf("%d", &n);
     sum = Summa(n);
     if (sum * sum * sum == n * n)
-        printf("YES");
+        printf("YESsss");
     else
-        printf("NO");
+        printf("NOooo");
     return 0;
 }
