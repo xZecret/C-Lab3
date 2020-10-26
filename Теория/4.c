@@ -1,16 +1,12 @@
 ﻿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <locale.h>
-/*Свечин Валентин
-  ВПИ22
-  Лаба - 3, задание - 4
-*/
 
-int main(int argc, char* argv[])
+int main()
 {
-    //Фрагменты программ эквивалентны
     int i = 0;
     while (i < n) {
         i++;
+       //Фрагменты программ эквивалентны
     }
 }
