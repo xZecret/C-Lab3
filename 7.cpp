@@ -17,6 +17,7 @@ printf ("x = %d y = %d\n", x, y);
 for ( x = 0, y = 1000; y > 1; x++, y /= 10 )
 printf ("x = %d y = %d\n", x, y);
 /*
+Вывод:
 x = 10 y = 10                                                                                                                                                                      
  x= 55 y = 10                                                                                                                                                                      
 x = 9 y = 11 z = 11                                                                                                                                                                
