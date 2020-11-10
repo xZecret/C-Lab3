@@ -5,7 +5,7 @@ int main()
     int a, x, y, z;
     printf("a = ");
     scanf("%d", &a);
-    if (a > 99 && a < 1000)
+    if (a > 110 && a < 1000)
     {
         x = a % 10;
         a /= 10;
